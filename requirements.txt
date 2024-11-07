@@ -1,0 +1,15 @@
+requests
+openai
+asyncio
+nltk
+ipython
+ipywidgets
+tqdm
+pandas
+tiktoken
+numpy
+python-dotenv
+voila
+gunicorn
+voila-material
+ipykernel
